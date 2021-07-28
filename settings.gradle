@@ -1,0 +1,2 @@
+rootProject.name = "ProjetComposantWeb"
+include ':app'
